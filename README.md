@@ -1,4 +1,4 @@
-#### Hi there, I'm Rishab Mandal ! 👋
+<!-- #### Hi there, I'm Rishab Mandal ! 👋 -->
 
 <!--
 **RishabMandal/RishabMandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi, I'm Rishab Mandal ! 👋</h1>
+- 🌱 I’m currently learning Java
+
+- 👨‍💻 You can visit my portfolio at [https://rishabmandal.github.io/MyFirstPortfolio/](https://rishabmandal.github.io/MyFirstPortfolio/)
+
+- 📫 How to reach me **rishab829@gmail.com**
+
+- ⚡ Fun fact **I think I am funny LOL**
+
+
+
