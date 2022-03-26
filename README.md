@@ -1,27 +1,20 @@
-<!-- #### Hi there, I'm Rishab Mandal ! 👋 -->
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<!--
-**RishabMandal/RishabMandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rishab Mandal !</h1>
+<!-- <h3 align="center">I'm a passionate Full Stack Developer from India.</h3> -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi, I'm Rishab Mandal ! 👋</h1>
-- 🌱 I’m currently learning Java
+## 🙋‍♂️ About Me
 
-- 👨‍💻 You can visit my portfolio at [https://rishabmandal.github.io/MyFirstPortfolio/](https://rishabmandal.github.io/MyFirstPortfolio/)
+<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
+
+- 🌱 I’m currently learning **Java, Data Structures and Algorithms.**
+
+- 👨‍💻 You can visit my Portfolio at **[https://rishabmandal.github.io/MyFirstPortfolio/](https://rishabmandal.github.io/MyFirstPortfolio/)**
 
 - 📫 How to reach me **rishab829@gmail.com**
 
-- ⚡ Fun fact **I think I am funny LOL**
+- ⚡ Fun fact **I listen to songs for almost 5 hours daily.**
 
-
+<!-- ## 🚀 Languages and Tools: -->
 
