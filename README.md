@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **Java, Data Structures and Algorithms.**
+- 🌱 I’m currently learning **React JS, Java, Data Structures and Algorithms.**
 
 - 👨‍💻 You can visit my Portfolio at **[https://rishabmandal.github.io/MyFirstPortfolio/](https://rishabmandal.github.io/MyFirstPortfolio/)**
 
