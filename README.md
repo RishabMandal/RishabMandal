@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS, Java, Data Structures and Algorithms.**
 
-- 👨‍💻 You can visit my Portfolio at **[https://rishabmandal.github.io/MyFirstPortfolio/](https://rishabmandal.github.io/MyFirstPortfolio/)**
+- 👨‍💻 You can visit my Portfolio at **[https://rishabmandal.github.io/Portfolio-Revamped/#/](https://rishabmandal.github.io/Portfolio-Revamped/#/)**
 
 - 📫 How to reach me **rishab829@gmail.com**
 
