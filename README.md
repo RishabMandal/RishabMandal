@@ -11,7 +11,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **React JS, React Native, Java, Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Next JS, TypeScript, React JS, React Native, Java, Data Structures and Algorithms.**
 
 - 👨‍💻 You can visit my Portfolio at **[https://rishabmandal.github.io/Portfolio-Revamped/#/](https://rishabmandal.github.io/Portfolio-Revamped/#/)**
 
