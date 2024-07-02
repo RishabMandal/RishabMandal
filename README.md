@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rishab829@gmail.com**
 
-- ⚡ Fun fact **I listen to songs for almost 5 hours daily.**
+- ⚡ Fun fact **I listen to songs for almost 2 hours daily.**
 
 <!-- ## 🚀 Languages and Tools: -->
 
